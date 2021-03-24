@@ -17,7 +17,7 @@ namespace Hello_World_Mecke
             Console.WriteLine("System gedribbelt");
             for (int i=0; i<1;i+=0)
             {
-                Console.WriteLine("Marvin ist eins Hund");
+                Console.WriteLine("Daniel ist eine Hündin");
             }
 
             // Ausgabe Benutzer 2
