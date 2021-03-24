@@ -20,7 +20,7 @@ namespace Hello_World_Mecke
             Console.WriteLine("Nǐ hǎo, shìjiè");
 
             // Ausgabe Benutzer 3
-            Console.WriteLine("Hallo ihr Knaben");
+            Console.WriteLine("Hallo du Knabensohn");
 
             // Ausgabe Benutzer 4
             Console.WriteLine("marhabaan bialealam");
