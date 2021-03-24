@@ -15,7 +15,7 @@ namespace Hello_World_Mecke
         {
             // Ausgabe Benutzer 1
 
-            Console.WriteLine("Hello World von XXX
+            Console.WriteLine("Hello World von XXX");
             Console.WriteLine("System gedribbelt");
             for (int i=0; i<1;i+=0)
             {
