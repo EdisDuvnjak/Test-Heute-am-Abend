@@ -21,10 +21,11 @@ namespace Hello_World_Mecke
             }
 
             // Ausgabe Benutzer 2
-            Console.WriteLine("Nǐ hǎo, shìjiè");
-
             // Ausgabe Benutzer 3
+            Console.WriteLine("Nǐ hǎo, shìjiè");
             Console.WriteLine("Hallo ihr Knaben");
+
+
 
             // Ausgabe Benutzer 4
             Console.WriteLine("marhabaan bialealam");
