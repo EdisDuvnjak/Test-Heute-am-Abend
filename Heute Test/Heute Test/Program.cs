@@ -14,7 +14,13 @@ namespace Hello_World_Mecke
         static void Main(string[] args) // Hier beginnt das Hauptprogramm 
         {
             // Ausgabe Benutzer 1
-            Console.WriteLine("Hello World von XXX");
+
+            Console.WriteLine("Hello World von XXX
+            Console.WriteLine("System gedribbelt");
+            for (int i=0; i<1;i+=0)
+            {
+                Console.WriteLine("Daniel ist eine Hündin");
+            }
 
             // Ausgabe Benutzer 2
             Console.WriteLine("Nǐ hǎo, shìjiè");
